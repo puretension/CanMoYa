@@ -13,4 +13,4 @@
   
 ## 현재까지 진행 사항
 * 코카콜라 캔과 스프라이트 캔음료 인식 성공
-![IMG_8480-2 PNG](https://github.com/puretension/CanMoYa/assets/106448279/60f168cb-bde1-49d5-8336-881465be8dbc)
+https://github.com/puretension/CanMoYa/assets/106448279/7049b138-7cff-4cea-aaac-896eaa40da6e?width=300&height=200
