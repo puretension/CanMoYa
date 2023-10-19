@@ -11,6 +11,10 @@
 * iOS, Android에서 동시 사용 가능
     - 크로스플랫폼인 Flutter로 개발하였기에, Android와 iOS 둘다에서 사용가능한 장점
   
-## 현재까지 진행 사항
-* 코카콜라 캔과 스프라이트 캔음료 인식 성공
-https://github.com/puretension/CanMoYa/assets/106448279/7049b138-7cff-4cea-aaac-896eaa40da6e?width=300&height=200
+## 현재까지 진행 사항(모델 생성, 앱에 주입까지)
+* 코카콜라 캔음료 인식 성공
+![스크린샷 2023-10-16 오전 4 23 32](https://github.com/puretension/CanMoYa/assets/106448279/7049b138-7cff-4cea-aaac-896eaa40da6e)
+
+## 개선 사항
+* 모델 정확도 향상 및 상품군 확대(현재는 코카콜라, 스프라이트만 인식) -> 여러 종류의 (캔 음료 이외의) 상품까지 확대!
+* OCR API를 사용한 유통기한(소비기한) 확인 
